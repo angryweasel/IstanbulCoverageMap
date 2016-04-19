@@ -1,0 +1,5 @@
+app.command-foo,SomeTeam
+app.components.a,SomeTeam
+app.components.b,AnotherTeam
+app.components.c,SomeTeam
+app.components.d,SomeOtherTeam 
